@@ -1,6 +1,6 @@
 # Train-Ticket-Reservation-System
 It is ticket reservation system of train. This project is made in java and mysql is used . JDBC is used for database conectivity.<br>
-Train reservation system is made for 2 targeted users admin and customer .<br> Admin can view, add, delete trains and revise shedule.<b
+Mysql is used to store info in database.
 
 ## Introduction
 
